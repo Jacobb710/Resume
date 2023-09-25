@@ -1,0 +1,129 @@
+body {
+    background-color: lightblue;
+}
+
+.newyork{
+    opacity: 0.75;
+}
+
+#contact {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#social {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+}
+
+.skills {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.acting {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.physical {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.stunt {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.voice {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.character {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.improvisation {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.education {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.experience {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.key {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+.other {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+
+li {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+}
+
+p {
+    color: rgb(46, 44, 44);
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+    list-style-image: url('spiderman.png')
+    
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a {
+    color: rgb(46, 44, 44);
+}
