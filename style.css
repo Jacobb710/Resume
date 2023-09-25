@@ -116,6 +116,10 @@ ul {
     
 }
 
+a:link {
+    color: rgb(46, 44, 44);
+}
+
 a:visited {
     color: red;
 }
@@ -124,6 +128,7 @@ a:hover {
     text-decoration: none;
 }
 
-a {
-    color: rgb(46, 44, 44);
+a:active {
+    color: red;
 }
+
